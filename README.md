@@ -21,7 +21,7 @@
 This application provides a platform for Claire (the user) to monitor her employees (stylists) and their respective clients. The user can search for clients by their stylist, or otherwise search through a list of all their clients.
 
 Schema diagram:
-<img src="https://github.com/Object-ions/HairSalon.Solution/blob/main/HairSalon/wwwroot/img/Schema.png" />
+<img src="https://github.com/switchcasestudio/HairSalon.Solution/blob/main/HairSalon/wwwroot/img/Schema.png" />
 
 Available Routes:
 
@@ -66,7 +66,7 @@ Cloning the Repo:
 1. Open Terminal.
 2. Change your directory to where you would want the cloned directory.
 3. Input the following command into your terminal:  
-   `$ git clone https://github.com/Object-ions/HairSalon.Solution.git`
+   `$ git clone https://github.com/switchcasestudio/HairSalon.Solution.git`
 4. Using the terminal, navigate to the production directory: "Clinic" and create a new file called appsettings.json
 5. Within appsettings.json, put in the following code while also replacing the following values with your own values as shown below the code snippet:
 
